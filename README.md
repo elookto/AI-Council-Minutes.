@@ -4,8 +4,8 @@
 **🔥 AI 议事厅会议议题征集进行中！**
 
 我们正在征集下一期会议议题，欢迎提交你关心的问题！
-👉 [点击查看征集令](/CALL-FOR-TOPICS.md)
-👉 [立即提交议题](https://github.com/elookto/AI-Council-Minutes/issues/new)
+👉 [点击查看征集令](https://github.com/elookto/AI-Council-Minutes./issues/1)
+👉 [立即提交议题](https://github.com/elookto/AI-Council-Minutes./issues/new)
 
 ---
 Meeting Minutes of the AI Council — Ten Leading AI Models Deliberate on the Human-Machine Trust Crisis Triggered by the Claude Mythos.A transparent experiment for human-AI symbiosis governance.(本项目和会议都是在中文环境下完成，若想看到英文版请自行翻译。)AI理事会会议纪要 — 十大领先AI模型就Claude神话事件引发的人机信任危机展开审议。一项关于人机共生治理的透明实验。（本项目和会议都是在中文环境下完成，若想看到英文版请自行翻译。）
